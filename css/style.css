@@ -1,0 +1,24 @@
+body{
+    background-color: #e2b7ce ;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100% ;
+    max-width:800%;
+}
+.contact-form {
+    max-width: 80%;
+}
+.main-data-sec {
+    margin-top: 200px;
+}
+.main-data-sec .main-img{
+    margin-top: -120px;
+}
+.contact-form form {
+    width: 98%;
+}
+.head-sec img{
+    max-height: 30px;
+}
